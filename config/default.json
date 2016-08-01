@@ -1,0 +1,3 @@
+{
+	"DBHost" : "mongodb://localhost/gear_db_ut"
+}
